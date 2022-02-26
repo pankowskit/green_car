@@ -1,0 +1,12 @@
+$prefix: "../img/";
+$img__comingsoon: $prefix+"comingsoon.jpg"; 
+$img__error: $prefix+"error.jpg"; 
+$img__privacy: $prefix+"privacy.jpg"; 
+$section__classes:
+    "comingsoon",
+    "error",
+    "privacy";
+$section__images:
+    $img__comingsoon,
+    $img__error,
+    $img__privacy;
